@@ -1,5 +1,5 @@
 Github dùng để làm gì?
--> Platform lưu trữ cho coder
+-> Platform lưu trữ code cho coder
 
 Repository là gì?
 -> là một thư viện nơi chứa các files của dự án
