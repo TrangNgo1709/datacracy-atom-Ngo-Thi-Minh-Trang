@@ -9,3 +9,4 @@ Fork repo (DATAcracy) nhằm mục đích gì?
 
 Giải thích ý nghĩa của Branch, Commit mesage bạn thấy khi link Colab với Github?
 -> Branch là một bản sao của repository. Bạn có thể sử dụng Branch để triển khai dự án theo hướng cô lập không ảnh hưởng đến dự án chính.
+Commit message: biểu thị tóm tắt các nội dung thay đổi trong công việc
